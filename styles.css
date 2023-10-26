@@ -1,0 +1,18 @@
+body {
+  background-color: #ffffff;
+}
+
+.icon {
+  fill: blue;
+}
+
+.firstname {
+  color: blueviolet;
+}
+.button {
+  border: none;
+}
+
+.input {
+  width: 400px;
+}
